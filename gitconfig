@@ -2,8 +2,8 @@
 	autocrlf = false
 	excludesfile=~/.gitignore
 [user]
-	name = "Ping Yin"
-	email = pkufranky@gmail.com
+	name = "mark3139"
+	email = yibomark@gmail.com
 [merge]
 	summary = true
 	tool = vimdiff
@@ -33,7 +33,7 @@
 [sendemail]
 	smtpencryption = tls
 	smtpserver = smtp.gmail.com
-	smtpuser = pkufranky@gmail.com
+	smtpuser = yibomark@gmail.com
 	smtpserverport = 587
 
 [alias]

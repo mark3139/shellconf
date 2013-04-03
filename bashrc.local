@@ -1,0 +1,1 @@
+alias fq='ssh -CfN -D 8989 mark3139@hk02.sshchina.com'
